@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="95" failures="0" name="cn.tjuscs.st.LabTest" time="0.007" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_201\jre\bin"/>
+    <property name="java.vm.version" value="25.201-b09"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\Study\SoftwareTest\Homework\lab1\SoftwareTestLab1"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\Study\SoftwareTest\Homework\lab1\SoftwareTestLab1"/>
+    <property name="java.runtime.version" value="1.8.0_201-b09"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_201\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Liu\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="maven.ext.class.path" value="D:\SoftWare\ideaIU-2018.3.5.win\plugins\maven\lib\maven-event-listener.jar"/>
+    <property name="classworlds.conf" value="D:\SoftWare\apache-maven-3.3.3\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Program Files\Java\jdk1.8.0_201\jre\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\SoftWare\SDK\tools;D:\SoftWare\SDK\platform-tools;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Pragma\Clients;D:\SoftWare\Git\cmd;C:\Program Files\dotnet\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;D:\SoftWare\Python\;D:\SoftWare\Matlab R2017b Win64\Matlab\runtime\win64;D:\SoftWare\Matlab R2017b Win64\Matlab\bin;D:\SoftWare\VTK\Install\bin\;D:\SoftWare\apache-maven-3.3.3\bin;C:\Users\Liu\AppData\Local\Microsoft\WindowsApps;D:\SoftWare\Microsoft VS Code\bin;C:\Users\Liu\.dotnet\tools;C:\Users\Liu\AppData\Roaming\npm;D:\SoftWare\texlive\2019\bin\win32;C:\Users\Liu\AppData\Local\Pandoc\;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="maven.repo.local" value="D:\SoftWare\maven\repository"/>
+    <property name="idea.version2019.3.3" value="true"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\Liu"/>
+    <property name="user.timezone" value="GMT+08:00"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="Liu"/>
+    <property name="java.class.path" value="D:\SoftWare\apache-maven-3.3.3\boot\plexus-classworlds-2.5.2.jar;D:\SoftWare\ideaIU-2018.3.5.win\lib\idea_rt.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_201\jre"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version2019.3.3 -s D:\SoftWare\apache-maven-3.3.3\conf\settings.xml -Dmaven.repo.local=D:\SoftWare\maven\repository test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="zh"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_201"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_201\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_201\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\SoftWare\apache-maven-3.3.3"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[0]" time="0.001"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[1]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[2]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[3]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[4]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[5]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[6]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[7]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[8]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[9]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[10]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[11]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[12]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[13]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[14]" time="0.001"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[15]" time="0.001"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[16]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[17]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[18]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[19]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[20]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[21]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[22]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[23]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[24]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[25]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[26]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[27]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[28]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[29]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[30]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[31]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[32]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[33]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[34]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[35]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[36]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[37]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[38]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[39]" time="0.001"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[40]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[41]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[42]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[43]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[44]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[45]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[46]" time="0.001"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[47]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[48]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[49]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[50]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[51]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[52]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[53]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[54]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[55]" time="0.001"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[56]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[57]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[58]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[59]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[60]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[61]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[62]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[63]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[64]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[65]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[66]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[67]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[68]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[69]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[70]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[71]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[72]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[73]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[74]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[75]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[76]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[77]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[78]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[79]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[80]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[81]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[82]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[83]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[84]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[85]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[86]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[87]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[88]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[89]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[90]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[91]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[92]" time="0"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[93]" time="0.001"/>
+  <testcase classname="cn.tjuscs.st.LabTest" name="verify[94]" time="0"/>
+</testsuite>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afed9820-2abd-4bf6-8223-66c34f36e293" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\SoftWare\maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../../SoftWare/apache-maven-3.3.3" />
+        <option name="userSettingsFile" value="D:\SoftWare\apache-maven-3.3.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZWIDmnV9In2kAkllnx69IjiymB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SoftwareTestLab4" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Study\SoftwareTest\Homework\Lab2\SoftwareTestLab2\src\test\java\selenium" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestWeb.verify">
+    <configuration name="readFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="st.readFile" />
+      <module name="SoftwareTestLab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="st.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestWeb" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SoftwareTestLab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selenium" />
+      <option name="MAIN_CLASS_NAME" value="selenium.TestWeb" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestWeb.verify" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SoftwareTestLab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selenium" />
+      <option name="MAIN_CLASS_NAME" value="selenium.TestWeb" />
+      <option name="METHOD_NAME" value="verify" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestWeb.verify" />
+        <item itemvalue="Application.readFile" />
+        <item itemvalue="JUnit.TestWeb" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afed9820-2abd-4bf6-8223-66c34f36e293" name="Default Changelist" comment="" />
+      <created>1584948305251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584948305251</updated>
+      <workItem from="1584948309993" duration="726000" />
+      <workItem from="1584949054589" duration="17955000" />
+      <workItem from="1589291983933" duration="746000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584972123337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584972123337" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584953233385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1584953233385" />
+    <state x="602" y="317" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589292004084">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="602" y="317" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1589292004084" />
+    <state x="498" y="195" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584972069095">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="195" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1584972069095" />
+    <state x="563" y="269" key="FileChooserDialogImpl" timestamp="1589292606986">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="450" y="205" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584948442566" />
+    <state x="563" y="269" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1589292606986" />
+    <state width="1066" height="527" key="GridCell.Tab.0.bottom" timestamp="1585020435873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1066" height="527" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585020435873" />
+    <state width="1066" height="527" key="GridCell.Tab.0.center" timestamp="1585020435873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1066" height="527" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585020435873" />
+    <state width="1066" height="527" key="GridCell.Tab.0.left" timestamp="1585020435873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1066" height="527" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585020435873" />
+    <state width="1066" height="527" key="GridCell.Tab.0.right" timestamp="1585020435873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1066" height="527" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585020435873" />
+    <state width="1493" height="319" key="GridCell.Tab.1.bottom" timestamp="1584970620349">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="319" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584970620349" />
+    <state width="1493" height="319" key="GridCell.Tab.1.center" timestamp="1584970620349">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="319" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584970620349" />
+    <state width="1493" height="319" key="GridCell.Tab.1.left" timestamp="1584970620349">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="319" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584970620349" />
+    <state width="1493" height="319" key="GridCell.Tab.1.right" timestamp="1584970620349">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="319" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584970620349" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1584957379621">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1584957379621" />
+    <state x="305" y="86" key="SettingsEditor" timestamp="1584948455647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="305" y="86" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584948455647" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="cell" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
