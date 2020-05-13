@@ -1,2 +1,2 @@
-# SoftwareTest
-TJU SoftwareTest Homework
+# 软件测试作业代码
+软件测试作业代码
